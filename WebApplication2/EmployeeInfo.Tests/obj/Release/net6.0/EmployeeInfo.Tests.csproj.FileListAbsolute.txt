@@ -1,0 +1,6 @@
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/bin/Release/net6.0/CoverletSourceRootsMapping
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/Release/net6.0/EmployeeInfo.Tests.csproj.AssemblyReference.cache
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/Release/net6.0/EmployeeInfo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/Release/net6.0/EmployeeInfo.Tests.AssemblyInfoInputs.cache
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/Release/net6.0/EmployeeInfo.Tests.AssemblyInfo.cs
+/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/Release/net6.0/EmployeeInfo.Tests.csproj.CoreCompileInputs.cache

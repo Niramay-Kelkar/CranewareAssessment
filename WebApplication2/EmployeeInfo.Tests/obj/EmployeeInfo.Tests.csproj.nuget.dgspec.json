@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
+        "projectName": "EmployeeInfo.Tests",
+        "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
+        "packagesPath": "/Users/niramaykelkar/.nuget/packages/",
+        "outputPath": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/niramaykelkar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj": {
+                "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "projectName": "WebApplication2",
+        "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "packagesPath": "/Users/niramaykelkar/.nuget/packages/",
+        "outputPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/niramaykelkar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
