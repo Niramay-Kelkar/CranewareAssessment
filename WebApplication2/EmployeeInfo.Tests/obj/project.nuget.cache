@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hr4VC+Hl8oBFYVKaRH2rKgps6+NmtMAnhEUpe9mK24tHAfSXUOhmqMlbqywZDW9PjN2uwNX9otcr+iVuan8Pdw==",
+  "dgSpecHash": "6D6+h4qIzfItmAq5mnjcLJZo9N0B1HAMEtYLYI3VyFCoH0Hzoz3tJFEQd1/Tcf91gsKob6mqzmmur8s4isaSFA==",
   "success": true,
-  "projectFilePath": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
+  "projectFilePath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/niramaykelkar/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/niramaykelkar/.nuget/packages/microsoft.codecoverage/17.2.0/microsoft.codecoverage.17.2.0.nupkg.sha512",

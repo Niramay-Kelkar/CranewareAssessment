@@ -19,7 +19,7 @@ namespace WebApplication2.Controllers
         }
 
         [HttpGet(Name = "GetAllEmployee")]
-        public IEnumerable<Employee> Get() 
+        public IEnumerable<Employee> Get(int empid) 
         {
             List<Employee> employeeList = new List<Employee>();
 
@@ -30,7 +30,9 @@ namespace WebApplication2.Controllers
                 // Create the command and set its properties.
                 SqlCommand command = new SqlCommand();
                 command.Connection = connection;
-                command.CommandText = "Select * from employees";
+                command.CommandText = "Select * from employees " +
+                    "inner join employeecontact on employeecontact.employee_id = " + empid +
+                    "where employees.employee_id = " + empid;
 
 
                 // Add the parameter to the Parameters collection.
@@ -51,6 +53,12 @@ namespace WebApplication2.Controllers
                             emp.Email = reader[3].ToString();
                             emp.HireDate = reader[4].ToString();
                             emp.Salary = Convert.ToInt32(reader[5]);
+                            emp.Addressline1 = reader[7].ToString();
+                            emp.Addressline2 = reader[8].ToString();
+                            emp.City = reader[9].ToString();
+                            emp.State = reader[10].ToString();
+                            emp.Country = reader[11].ToString();
+                            emp.Zipcode = Convert.ToInt32(reader[12]);
 
                             employeeList.Add(emp);
                         }                    

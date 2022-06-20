@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {}
+    "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {}
   },
   "projects": {
-    "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {
+    "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
+        "projectUniqueName": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
         "projectName": "EmployeeInfo.Tests",
-        "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
+        "projectPath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/EmployeeInfo.Tests.csproj",
         "packagesPath": "/Users/niramaykelkar/.nuget/packages/",
-        "outputPath": "/Users/niramaykelkar/Downloads/WebApplication2/EmployeeInfo.Tests/obj/",
+        "outputPath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/EmployeeInfo.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niramaykelkar/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj": {
-                "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj"
+              "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/WebApplication2.csproj": {
+                "projectPath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/WebApplication2.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj": {
+    "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "projectUniqueName": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "projectPath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/WebApplication2.csproj",
         "packagesPath": "/Users/niramaykelkar/.nuget/packages/",
-        "outputPath": "/Users/niramaykelkar/Downloads/WebApplication2/WebApplication2/obj/",
+        "outputPath": "/Users/niramaykelkar/Downloads/CranewareAssessment/WebApplication2/WebApplication2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niramaykelkar/.nuget/NuGet/NuGet.Config"
